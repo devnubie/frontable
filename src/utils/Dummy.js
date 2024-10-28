@@ -70,3 +70,5 @@ const DUMMYPOST = [
       }
     }
   ];
+
+  export default DUMMYPOST;
